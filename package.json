@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-liquidity",
+  "version": "0.1.0",
+  "description": "ESLint config for liquidians",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": ">= 5",
+    "eslint-config-prettier": ">= 4",
+    "eslint-config-standard": ">= 12",
+    "eslint-config-standard-react": ">= 7"
+  },
+  "repository": "git@github.com:liquidity-network/eslint-config-liquidity.git",
+  "author": "Fedir Ushakov <fedir.ushakov@liquidity.network>",
+  "license": "MIT"
+}
