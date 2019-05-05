@@ -8,7 +8,7 @@ module.exports = {
   },
   rules: {
     '@typescript-eslint/no-unused-vars': 'warn',
-    'max-params': ['error', 3],
+    'max-params': ['error', 4],
     'prettier/prettier': [
       'error',
       {
