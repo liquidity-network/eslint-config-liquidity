@@ -5,6 +5,7 @@
   "main": "index.js",
   "peerDependencies": {
     "eslint": ">= 5",
+    "prettier": ">= 1.17",
     "eslint-config-prettier": ">= 4",
     "eslint-config-standard": ">= 12",
     "eslint-config-standard-react": ">= 7"
