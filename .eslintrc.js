@@ -4,9 +4,7 @@ module.exports = {
   plugins: ['@typescript-eslint', 'prettier', 'jest'],
   'env': {
     'browser': true,
-    'jest': true,
-    'mocha': true,
-    'detox/detox': true
+    'jest': true
   },
   rules: {
     '@typescript-eslint/no-unused-vars': 'warn',

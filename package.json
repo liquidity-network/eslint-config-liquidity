@@ -4,11 +4,14 @@
   "description": "ESLint config for liquidians",
   "main": "index.js",
   "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": ">= 1.7",
     "eslint": ">= 5",
-    "prettier": ">= 1.17",
     "eslint-config-prettier": ">= 4",
     "eslint-config-standard": ">= 12",
-    "eslint-config-standard-react": ">= 7"
+    "eslint-config-standard-react": ">= 7",
+    "eslint-plugin-jest": ">= 22.5",
+    "eslint-plugin-prettier": ">= 3",
+    "prettier": ">= 1.17"
   },
   "repository": "git@github.com:liquidity-network/eslint-config-liquidity.git",
   "author": "Fedir Ushakov <fedir.ushakov@liquidity.network>",
