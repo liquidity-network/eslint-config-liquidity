@@ -23,7 +23,6 @@ module.exports = {
   "lint-staged": {
     "*.{ts,tsx}": [
       "eslint --fix",
-      "tsc",
       "git add"
     ]
   }, 
